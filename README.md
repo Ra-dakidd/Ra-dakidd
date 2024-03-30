@@ -28,7 +28,7 @@ Web Development: Html, CSS, Javascript, Nodejs, Typescript, Python
 
 BackEnd Development: SQL, Cloud
 
-Other: Excel
+Other: Cybersecurity, Excel
 
 # ✨Fun Facts
 
