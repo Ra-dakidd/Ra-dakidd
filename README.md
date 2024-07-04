@@ -34,7 +34,7 @@ Other: Cybersecurity, Excel
 
   * I found a new love in programming and decided to teach myself
   * I'm self taught web developer/cloud Practiioner/data analysis
-  * I have a bachelors degree in Business Managerment minor in audio
+  * I have a bachelors degree in Business Managerment
   * 
 
 # 📬Contact
